@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nathanrauf
+- 👀 I’m interested in ... cyber security, software engineering, cloud, secure coding principles, game development
+- 🌱 I’m currently learning ... web development
+- 💞️ I’m looking to collaborate on ... anything and everything
+- 📫 How to reach me ... nathanrauf@gmail.com
