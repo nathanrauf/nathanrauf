@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nathanrauf
 - 👀 I’m interested in ... cyber security, software engineering, cloud, secure coding principles, game development
 - 🌱 I’m currently learning ... app development
-- 📫 How to reach me ... nathanrauf@gmail.com
+- 📫 How to reach me ... nathan@somewhatproductive.com
